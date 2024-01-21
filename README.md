@@ -1,0 +1,1 @@
+BookStore app is the result of working in pairs. Alongside another colleague, I designed this console application so that it can work on four different repositories: in memory, file, xml file and database (PostgreSQL). The app presents lots of functionalities on three entities (Book, Client and Transaction).
