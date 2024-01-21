@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<client>
+    <client id="2">
+        <firstname>Ramona</firstname>
+        <lastname>Stanescu</lastname>
+    </client>
+    <client id="3">
+        <firstname>Amalia</firstname>
+        <lastname>Bucur</lastname>
+    </client>
+    <client id="4">
+        <firstname>arfe</firstname>
+        <lastname>afa</lastname>
+    </client>
+    <client id="null">
+        <firstname>sdfs</firstname>
+        <lastname>sdfsf</lastname>
+    </client>
+</client>

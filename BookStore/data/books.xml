@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book>
+    <book id="3">
+        <title>test</title>
+        <author_firstname>test</author_firstname>
+        <author_lastname>test</author_lastname>
+        <release_year>1999</release_year>
+        <price>29.99</price>
+    </book>
+    <book id="2">
+        <title>Moara cu noroc</title>
+        <author_firstname>Ioan</author_firstname>
+        <author_lastname>Slavici</author_lastname>
+        <release_year>2003</release_year>
+        <price>20.0</price>
+    </book>
+</book>
